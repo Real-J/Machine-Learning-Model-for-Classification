@@ -18,6 +18,20 @@ The pipeline supports **handling imbalanced data using SMOTE** and includes **Ra
 - **Model Saving and Loading**: Saves the best-trained model for future predictions.
 
 ## 📂 Dataset Information
+
+Predicting Diabetes based on factors such as bmi, age, number of pregnancies etc
+
+For Each Attribute:
+
+Number of times pregnant
+Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+Diastolic blood pressure (mm Hg)
+Triceps skin fold thickness (mm)
+2-Hour serum insulin (mu U/ml)
+Body mass index (weight in kg/(height in m)^2)
+Diabetes pedigree function
+Age (years)
+
 The dataset should be a **CSV file** with relevant attributes for classification tasks. The dataset used in this project focuses on medical diagnostics, predicting **diabetes based on health indicators**.
 
 ### **Dataset Columns**
