@@ -114,6 +114,10 @@ Tuned Random Forest Accuracy: 0.81
 ![graph](result.png)
 
 
+
+![graph](matrix.png)
+
+
 ## 📈 Feature Importance
 The script generates a **feature importance plot**, helping to identify the most influential features in classification.
 
