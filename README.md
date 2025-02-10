@@ -110,6 +110,9 @@ Accuracy with KNN: 0.7050
 Accuracy with LightGBM: 0.7800
 Tuned Random Forest Accuracy: 0.81
 ```
+#### Dataset Result
+![graph](result.png)
+
 
 ## 📈 Feature Importance
 The script generates a **feature importance plot**, helping to identify the most influential features in classification.
